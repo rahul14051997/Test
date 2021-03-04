@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://http://3.139.234.30:3000/:27017/mean-stack-registration-login-example",
+    "apiUrl": "http://localhost:3000/api",
+    "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
